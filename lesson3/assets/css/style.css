@@ -1,18 +1,25 @@
+header {
+  background-color: red;
+}
+
+
+
+
 .lesson  {
   background-color: lemonchiffon;
 }
 
 #paragraph-1 {
-  color: darkslateblue;
+  color: black;
   background-color: white;
 }
 
 #paragraph-2 {
-  color: darkslateblue;
-  background-color: darkorange;
+  color: black;
+  background-color: white;
 }
 
 #paragraph-3 {
-    color: white;
-    background-color: darkslateblue;
+    color: black;
+    background-color: white;
 }
