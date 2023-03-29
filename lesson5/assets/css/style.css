@@ -1,0 +1,79 @@
+header {
+  background-color: red;
+  text-align: center;
+}
+h3 {
+  text-align: left;
+}
+.section1 {
+  background-color: lightsalmon;
+}
+.child1 {
+  text-align: center;
+}
+.child2 {
+  display: inline;
+  background-color: lightblue;
+}
+.child3 {
+  display: inline;
+  background-color: orange;
+}
+.section2 {
+  background-color: lightsalmon;
+  text-align: center;
+}
+.child4 {
+  text-align: left;
+}
+.child5 {
+  text-align: left;
+  background-color: lightblue;
+}
+.child6 {
+  text-align: left;
+  background-color: orange;
+}
+.li1 {
+  text-align: left;
+  background-color: lightblue;
+}
+.li2 {
+  text-align: left;
+  background-color: orange;
+}
+.section3 {
+  background-color: lightsalmon;
+  text-align: center;
+}
+.child7 {
+  text-align: left;
+}
+.child8 {
+  display: inline;
+  background-color: lightblue;
+}
+.child9 {
+  display: inline;
+  background-color: orange;
+}
+.section4 {
+  background-color: lightsalmon;
+  text-align: center;
+}
+.child10 {
+  text-align: left;
+}
+.pics {
+  text-align: left;
+}
+.pics2 {
+  text-align: left;
+}
+footer {
+  background-color: lightsalmon;
+  text-align: center;
+}
+.footer {
+  text-align: left;
+}
