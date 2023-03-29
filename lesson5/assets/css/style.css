@@ -57,6 +57,9 @@ h3 {
   display: inline;
   background-color: orange;
 }
+.all {
+  text-align: left;
+}
 .section4 {
   background-color: lightsalmon;
   text-align: center;
