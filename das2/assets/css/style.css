@@ -1,0 +1,29 @@
+tr,th,td,table {
+  border: 1px solid black;
+}
+table {
+  width: 1000px;
+}
+th {
+  background-color: yellow;
+  color: blue;
+  font-size: 20px;
+}
+.box1  td{
+  background-color: lightblue;
+  color: green;
+  font-size: 20px;
+}
+.box2 td {
+  background-color: lightgreen;
+  color:  red;
+  font-size: 15px;
+}
+.box {
+  display: flex;
+  align-items: center;
+  column-gap: 40px;
+}
+.box img {
+  border-radius: 100px;
+}
