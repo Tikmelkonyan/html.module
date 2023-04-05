@@ -4,10 +4,15 @@ table {
 }
 tr,th,td {
   border: 1px solid black;
-/*  color: white;*/
+  height: 20px;
+  width: 30px;
 }
 .table1 {
-
+border-collapse: collapse;
 }
 .table2 {
+  border-collapse: collapse;
+}
+.table3 {
+  border-collapse: collapse;
 }
