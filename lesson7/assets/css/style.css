@@ -1,0 +1,13 @@
+table {
+  width: 400px;
+  border: 1px solid black;
+}
+tr,th,td {
+  border: 1px solid black;
+/*  color: white;*/
+}
+.table1 {
+
+}
+.table2 {
+}
